@@ -1,8 +1,8 @@
 #!/bin/bash
 
 if [[ "$(whoami)" != root ]]; then
-	echo "sudo ./winekur komutu ile çalıştırın!!.."
-	exit 0
+echo "sudo ./winekur komutu ile çalıştırın!!.."
+exit 0
 fi
 
 apt update
