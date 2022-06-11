@@ -4,6 +4,8 @@ Wine installer for Debian 11
 # Bu scprit ile Debian 11 Bullseye tabanlı tüm distrolara en son sürüm Wine kurabilirsiniz.
 
 Aşağıdaki komut ile çalıştırın
+------------------------------
+
 sudo ./winekur.sh
 
 Wine kurulumu tamamlandı. Şimdi aşağıdaki komutları girelim.
