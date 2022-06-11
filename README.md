@@ -15,7 +15,7 @@ Windows platformuna ait .exe dosyalarına sağ tıklayıp “Wine ile aç” şe
 
 # Wine sistemden kaldırmak için ise:
 
-sudo apt purge wine* ve sudo apt autoremove komutlarını kullanmalısınız.
+sudo apt purge wine* && sudo apt autoremove
 
 Ayrıca /etc/apt/sources.list.d/winehq.list dosyasını da silmeniz gerekmektedir.
 
