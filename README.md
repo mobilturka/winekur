@@ -8,11 +8,13 @@ Aşağıdaki komut ile çalıştırın
 sudo ./winekur.sh
 -----------------
 
-Wine kurulumu tamamlandı. Şimdi aşağıdaki komutları girelim.
-wine --version komutu ile versiyon kontrolü yapalım
-winecfg komutu ile wine mono yükleyiciyi yükleyelim.
+Wine kurulumu tamamlandıktan sonra 
 
-Windows platformuna ait .exe dosyalarına sağ tıklayıp “Wine ile aç” şeklinde dosyalarını çalıştırabilirsiniz…
+wine --version komutu ile versiyon kontrolü yapın
+
+winecfg komutu ile wine mono yükleyiciyi yükleyin
+
+Artık .exe dosyalarına sağ tıklayıp “Wine ile aç” şeklinde dosyalarını çalıştırabilirsiniz…
 
 
 # Wine sistemden kaldırmak için ise:
